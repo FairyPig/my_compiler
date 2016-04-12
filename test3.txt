@@ -1,0 +1,10 @@
+const a=45;
+var x,y,g,m;
+    begin
+        x:=a;
+        y:=b;
+        call a;
+        g := y;
+        m := a*b/g;
+        write(g,m)
+    end.
